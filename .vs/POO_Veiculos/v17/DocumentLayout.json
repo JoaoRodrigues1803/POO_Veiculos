@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\POO_Veiculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2750C1E1-5E07-4AFA-A99E-F2D7C667242C}|POO_Veiculos\\POO_Veiculos.csproj|h:\\poo_veiculos\\poo_veiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2750C1E1-5E07-4AFA-A99E-F2D7C667242C}|POO_Veiculos\\POO_Veiculos.csproj|solutionrelative:poo_veiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2750C1E1-5E07-4AFA-A99E-F2D7C667242C}|POO_Veiculos\\POO_Veiculos.csproj|H:\\POO_Veiculos\\poo_veiculos\\caminhao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2750C1E1-5E07-4AFA-A99E-F2D7C667242C}|POO_Veiculos\\POO_Veiculos.csproj|solutionrelative:poo_veiculos\\caminhao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2750C1E1-5E07-4AFA-A99E-F2D7C667242C}|POO_Veiculos\\POO_Veiculos.csproj|H:\\POO_Veiculos\\poo_veiculos\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2750C1E1-5E07-4AFA-A99E-F2D7C667242C}|POO_Veiculos\\POO_Veiculos.csproj|solutionrelative:poo_veiculos\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2750C1E1-5E07-4AFA-A99E-F2D7C667242C}|POO_Veiculos\\POO_Veiculos.csproj|H:\\POO_Veiculos\\poo_veiculos\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2750C1E1-5E07-4AFA-A99E-F2D7C667242C}|POO_Veiculos\\POO_Veiculos.csproj|solutionrelative:poo_veiculos\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2750C1E1-5E07-4AFA-A99E-F2D7C667242C}|POO_Veiculos\\POO_Veiculos.csproj|H:\\POO_Veiculos\\poo_veiculos\\sistemacadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2750C1E1-5E07-4AFA-A99E-F2D7C667242C}|POO_Veiculos\\POO_Veiculos.csproj|solutionrelative:poo_veiculos\\sistemacadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2750C1E1-5E07-4AFA-A99E-F2D7C667242C}|POO_Veiculos\\POO_Veiculos.csproj|H:\\POO_Veiculos\\poo_veiculos\\veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2750C1E1-5E07-4AFA-A99E-F2D7C667242C}|POO_Veiculos\\POO_Veiculos.csproj|solutionrelative:poo_veiculos\\veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Veiculos.cs",
+              "DocumentMoniker": "H:\\POO_Veiculos\\POO_Veiculos\\Veiculos.cs",
+              "RelativeDocumentMoniker": "POO_Veiculos\\Veiculos.cs",
+              "ToolTip": "H:\\POO_Veiculos\\POO_Veiculos\\Veiculos.cs",
+              "RelativeToolTip": "POO_Veiculos\\Veiculos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:19:07.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SistemaCadastro.cs",
+              "DocumentMoniker": "H:\\POO_Veiculos\\POO_Veiculos\\SistemaCadastro.cs",
+              "RelativeDocumentMoniker": "POO_Veiculos\\SistemaCadastro.cs",
+              "ToolTip": "H:\\POO_Veiculos\\POO_Veiculos\\SistemaCadastro.cs",
+              "RelativeToolTip": "POO_Veiculos\\SistemaCadastro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:01:46.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "H:\\POO_Veiculos\\POO_Veiculos\\Carro.cs",
+              "RelativeDocumentMoniker": "POO_Veiculos\\Carro.cs",
+              "ToolTip": "H:\\POO_Veiculos\\POO_Veiculos\\Carro.cs",
+              "RelativeToolTip": "POO_Veiculos\\Carro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:51:50.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\POO_Veiculos\\POO_Veiculos\\Program.cs",
+              "RelativeDocumentMoniker": "POO_Veiculos\\Program.cs",
+              "ToolTip": "H:\\POO_Veiculos\\POO_Veiculos\\Program.cs",
+              "RelativeToolTip": "POO_Veiculos\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswCsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:50:01.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Caminhao.cs",
+              "DocumentMoniker": "H:\\POO_Veiculos\\POO_Veiculos\\Caminhao.cs",
+              "RelativeDocumentMoniker": "POO_Veiculos\\Caminhao.cs",
+              "ToolTip": "H:\\POO_Veiculos\\POO_Veiculos\\Caminhao.cs",
+              "RelativeToolTip": "POO_Veiculos\\Caminhao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:52:15.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "H:\\POO_Veiculos\\POO_Veiculos\\Moto.cs",
+              "RelativeDocumentMoniker": "POO_Veiculos\\Moto.cs",
+              "ToolTip": "H:\\POO_Veiculos\\POO_Veiculos\\Moto.cs",
+              "RelativeToolTip": "POO_Veiculos\\Moto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwA0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:52:00.22Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
